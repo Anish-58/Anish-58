@@ -1,6 +1,6 @@
 # 👨‍💻 Anish Shrestha | Aspiring Web Developer
 
-Hello! I'm Anish, a beginner coder with a strong interest in web development. I'm currently learning the fundamentals of front-end development and working on projects to enhance my skills.
+**Hello! I'm Anish, a beginner coder with a strong interest in web development. I'm currently learning the fundamentals of front-end development and working on projects to enhance my skills.
 
 ## 📚 Current Learning Path
 
